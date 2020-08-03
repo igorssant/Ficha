@@ -1,0 +1,5 @@
+Nome: Vladimir
+Classe: Bruxo
+Subclasse: Necromante
+Raça: Higher Vampire
+Idade: 121 anos
